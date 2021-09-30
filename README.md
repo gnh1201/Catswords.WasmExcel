@@ -6,7 +6,9 @@ This project is experimental
 
 ## Goal
 
-Microsoft Office (e.g. Excel) <-----> WebAssembly <-----> LLVM <-----> (Javascript, Rust, C++, ...)
+```
+Microsoft Office (e.g. Excel) <--> VBA <--> WebAssembly <--> LLVM <--> (Javascript, Rust, C++, ...)
+```
 
 ## Contact me
   * support@exts.kr
